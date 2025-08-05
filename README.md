@@ -6,7 +6,7 @@ Hey there! I'm **Sivasurya**, a fourth-year **Artificial Intelligence & Machine 
 
 # 🚀 Skills & Interests:
 
-- **Programming Languages**: C, C++, Python, HTML, CSS, JavaScript, React, React Native  
+- ### 🖥️  **Programming Languages**: C, C++, Python, HTML, CSS, JavaScript, React, React Native  
 - **Frameworks/Libraries**: Bootstrap, Django, NumPy, Pandas, Node.js, Express.js  
 - **Databases**: MySQL, MongoDB  
 - **Developer Tools**: Git & GitHub, Google Colab, VS Code, Anaconda  
