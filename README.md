@@ -1,4 +1,5 @@
-![a7](https://github.com/user-attachments/assets/9fc99afc-55ad-48cb-b0ee-b58f16ea8b4c)# 👋 Hi, I'm Varikooti Sivasurya
+
+# 👋 Hi, I'm **SIVASURYA**
 
 ## 📌 About Me
 
