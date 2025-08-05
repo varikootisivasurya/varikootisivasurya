@@ -29,9 +29,8 @@ Hey there! I'm **Sivasurya**, a fourth-year **Artificial Intelligence & Machine 
 
 ## 🌾 FarmXpert – Smart Agriculture Assistant
 -An all-in-one platform offering crop recommendation, disease identification, fertilizer store, weather insights, and voice-enabled chatbot support.
-
 -Key features include location-based soil test center detection, AI-powered leaf disease analysis, e-commerce for fertilizers, and pesticide-safety weather forecasts.
-
 -Built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript** (frontend), **Python**, **Django**, and **TensorFlow** (backend), with **MongoDB** as the database for storing user data, fertilizer inventory, chatbot logs, and more.
+
 -[🔗 Project Link]
 
