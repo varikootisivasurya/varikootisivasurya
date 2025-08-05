@@ -27,7 +27,10 @@ Hey there! I'm **Sivasurya**, a fourth-year **Artificial Intelligence & Machine 
 - Built using **HTML**, **CSS**,  and **JavaScript**
 - [🔗 Project Link](https://github.com/varikootisivasurya/Cinemax)
 
-
-
+## 🎬 Movie Recommender System
+-A content-based recommendation system that suggests similar movies using metadata like genre, cast, and keywords.
+-Built using Cosine Similarity and the TMDB Movie Metadata dataset to calculate movie-to-movie relevance.
+-Technologies used: Python, Pandas, Scikit-learn, and Streamlit for the web interface.
+- [🔗 Project Link](https://github.com/varikootisivasurya/movie-recommender)
 
 
