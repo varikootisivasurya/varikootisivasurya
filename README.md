@@ -15,10 +15,13 @@ Hey there! I'm **Sivasurya**, a fourth-year **Artificial Intelligence & Machine 
 
 ## 🏆 Projects:
 ## 🌾 FarmXpert – Smart Agriculture Support Platform
--🌾 Built a full-stack agriculture support web application for crop suggestions and weather updates.
--🤖 Integrated an AI chatbot using Gemini / OpenAI APIs for quick user assistance.
--🛒 Developed a fertilizer shopping module with full checkout functionality.
--⚙️ Designed a responsive UI and efficient backend APIs for smooth performance.
+🌾 Built a full-stack agriculture support web application for crop suggestions and weather updates.
+
+🤖 Integrated an AI chatbot using Gemini / OpenAI APIs for quick user assistance.
+
+🛒 Developed a fertilizer shopping module with full checkout functionality.
+
+⚙️ Designed a responsive UI and efficient backend APIs for smooth performance.
 - [🔗Project Link](https://farm-xpert-frontend-rddk.vercel.app/)
  
 ## 🎬 Cinemax – Online Movie Ticket Booking
