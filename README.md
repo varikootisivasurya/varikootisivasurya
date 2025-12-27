@@ -14,12 +14,12 @@ Hey there! I'm **Sivasurya**, a fourth-year **Artificial Intelligence & Machine 
 
 
 ## 🏆 Projects:
-
-## 🍽️ Habibi Foods - Online Food Ordering System
-- Enabling restaurants to manage menus with ease.
-- Features include secure login, menu customization, secure payments (Stripe), feedback, and more.
-- Built using HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), SQLite (database).
-- [🔗Project Link](https://github.com/varikootisivasurya/Online-Food-ordering)
+## 🌾 FarmXpert – Smart Agriculture Support Platform
+-🌾 Built a full-stack agriculture support web application for crop suggestions and weather updates.
+-🤖 Integrated an AI chatbot using Gemini / OpenAI APIs for quick user assistance.
+-🛒 Developed a fertilizer shopping module with full checkout functionality.
+-⚙️ Designed a responsive UI and efficient backend APIs for smooth performance.
+- [🔗Project Link](https://farm-xpert-frontend-rddk.vercel.app/)
  
 ## 🎬 Cinemax – Online Movie Ticket Booking
 - Enables users to register, browse movies, select seats, and book tickets with an interactive and responsive interface.  
